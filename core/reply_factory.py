@@ -60,7 +60,7 @@ def get_next_question(current_question_id):
     
 
 
-    return None, None
+    return None, None 
 
 
 def generate_final_response(session):
