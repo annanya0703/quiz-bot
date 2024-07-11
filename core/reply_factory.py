@@ -79,4 +79,6 @@ def generate_final_response(session):
     
     return f"You scored {score} out of {total_questions}."
 
+
+
     
